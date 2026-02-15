@@ -13,6 +13,9 @@ Gerar chaves em ambientes online ou em máquinas que não sejam "air-gapped" (is
 Estude sempre as melhores práticas de custódia antes de lidar com ativos reais.
 
 # 🛠️ Funcionalidades
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 Gerar chaves privadas aleatórias.
 
 Interface simples via terminal.
